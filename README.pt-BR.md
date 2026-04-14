@@ -398,4 +398,4 @@ Workflow:
 
 ---
 
-**Se este guia te ajudou a proteger seu app, dê uma estrela no repo e compartilhe com outros devs que estão shippando rápido.**
+**Se este guia te ajudou a proteger seu app, dê uma ⭐ no repo e compartilhe com outros devs que estão shippando rápido.**

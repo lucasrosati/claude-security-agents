@@ -402,4 +402,4 @@ Workflow:
 
 ---
 
-**If this helped you secure your app, give the repo a star and share it with other devs shipping fast.**
+**If this helped you secure your app, give the repo a ⭐ and share it with other devs shipping fast.**
